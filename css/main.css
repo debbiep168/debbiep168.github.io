@@ -26,6 +26,7 @@ i {
 
 #terminal {
   background-color: #939393;
+  height: 10px;
 }
 
 .terminal-text {
