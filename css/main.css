@@ -18,6 +18,8 @@ i {
 
 #header {
   width: 100%;
+  top: 0;
+  left: 0;
   text-align: center;
   background-color: #fafafa;
   text-transform: uppercase;
