@@ -22,11 +22,12 @@ i {
 
 #terminal {
   background-color: #cccccc;
+  width: 670px;
 }
 
 #console {
   background-color: black;
-  width: 900px;
+  width: 670px;
 }
 
 .terminal-text {
