@@ -23,6 +23,8 @@ i {
   text-align: center;
   background-color: #fafafa;
   text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.2em;
   position: fixed;
 }
 
