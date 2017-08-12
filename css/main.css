@@ -17,6 +17,7 @@ i {
 }
 
 #header {
+  width: 100%;
   text-align: center;
   background-color: #fafafa;
   text-transform: uppercase;
