@@ -1,6 +1,6 @@
 body {
   font-family: 'Karla', sans-serif;
-  line-height: 34px;
+  line-height: 20px;
 }
 
 i {
@@ -39,7 +39,7 @@ i {
 
 #about-me {
   margin-top: 100px;
-  margin-left: 500px;
+  margin-left: 250px;
 }
 
 #terminal {
