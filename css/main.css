@@ -28,6 +28,10 @@ i {
   position: fixed;
 }
 
+.header-name {
+  margin-top: 10px;
+}
+
 #terminal {
   background-color: #cccccc;
   width: 670px;
