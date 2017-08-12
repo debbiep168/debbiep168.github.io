@@ -9,6 +9,10 @@ i {
   padding: 18px;
 }
 
+a {
+  color: #3bfc34;
+}
+
 .fa-linkedin:before {
   content: "\f0e1";
 }
