@@ -1,5 +1,11 @@
-.social {
-  color: #fff; 
+i {
+  color: #939393;
+  font-size: 20px;
+  padding: 18px;
+}
+
+.fa-linkedin:before {
+    content: "\f0e1";
 }
 
 #social-icons {
