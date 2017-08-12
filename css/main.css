@@ -37,6 +37,10 @@ a {
   position: fixed;
 }
 
+.hellow-world {
+  text-align: center;
+}
+
 .header-name {
   margin-top: 10px;
 }
