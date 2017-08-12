@@ -20,6 +20,14 @@ i {
   text-align: center;
 }
 
+#console {
+  background-color: black;
+}
+
+.answer {
+  color: #3bfc34;
+}
+
 .skill {
     border: 1px solid #50a9d1;
     border-radius: 8px;
