@@ -8,6 +8,10 @@ i {
   content: "\f0e1";
 }
 
+.social {
+  display: inline-block;
+}
+
 #social-icons {
   display: inline-block;
 }
