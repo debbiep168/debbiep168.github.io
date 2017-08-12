@@ -24,6 +24,10 @@ i {
   background-color: black;
 }
 
+#code {
+  background-color: gray; 
+}
+
 .terminal-text {
   color: #3bfc34;
 }
