@@ -1,3 +1,7 @@
 .social {
   color: '#939393'
 }
+
+#social-icons {
+  display: 'block'
+}
