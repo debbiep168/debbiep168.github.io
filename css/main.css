@@ -39,7 +39,8 @@ i {
 
 #about-me {
   margin-top: 200px;
-  margin-left: 250px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 #terminal {
@@ -49,7 +50,7 @@ i {
 }
 
 #console {
-  background-color: black;
+  background-color: #383737;
   width: 670px;
 }
 
