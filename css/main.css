@@ -20,13 +20,12 @@ i {
   text-align: center;
 }
 
-#console {
-  background-color: black;
+#terminal {
+  background-color: #cccccc;
 }
 
-#terminal {
-  background-color: #939393;
-  height: 10px;
+#console {
+  background-color: black;
 }
 
 .terminal-text {
