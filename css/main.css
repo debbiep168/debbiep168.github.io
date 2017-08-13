@@ -13,6 +13,22 @@ a {
   color: #3bfc34;
 }
 
+.card {
+  position: none;
+}
+
+.card-image {
+  position: none;
+}
+
+.card-content {
+  position: none;
+}
+
+.card-action {
+  position: none;
+}
+
 .fa-linkedin:before {
   content: "\f0e1";
 }
