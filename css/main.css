@@ -94,9 +94,9 @@ a {
 }
 
 #project-header {
-  font-weight: bold;
   font-size: 50px;
   text-align: center;
+  margin-bottom: 100px;
 }
 
 .skill {
