@@ -93,6 +93,7 @@ a {
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size: 13px;
+  margin-left: 6px;
 }
 
 #projects-list {
