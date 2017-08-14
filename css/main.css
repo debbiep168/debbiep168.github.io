@@ -68,21 +68,24 @@ a {
 }
 
 #about-me {
+  margin: 0 auto;
   margin-top: 120px;
-  margin-left: 175px;
 }
 
 #terminal {
   background-color: #cccccc;
-  /*width: 670px;*/
   width: 75%;
   text-align: center;
+  margin: 0 auto;
+}
+
+#code {
+  margin: 0 auto;
+  width: 75%;
 }
 
 #console {
   background-color: #383737;
-  /*width: 670px;*/
-  width: 75%;
 }
 
 .terminal-text {
