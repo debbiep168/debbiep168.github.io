@@ -75,13 +75,14 @@ a {
 #terminal {
   background-color: #cccccc;
   /*width: 670px;*/
-  width: 70%;
+  width: 75%;
   text-align: center;
 }
 
 #console {
   background-color: #383737;
-  width: 670px;
+  /*width: 670px;*/
+  width: 75%;
 }
 
 .terminal-text {
