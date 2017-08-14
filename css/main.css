@@ -74,7 +74,8 @@ a {
 
 #terminal {
   background-color: #cccccc;
-  width: 670px;
+  /*width: 670px;*/
+  width: 70%;
   text-align: center;
 }
 
