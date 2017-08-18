@@ -13,6 +13,10 @@ a {
   color: #3bfc34;
 }
 
+.inner-color {
+  color: black;
+}
+
 .card {
   position: none;
 }
