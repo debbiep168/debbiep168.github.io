@@ -10,72 +10,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   </head>
   <body>
-    <!-- <div id="header">
-      <div class="header-name">Debbie Pao</div>
-      <div class="project-nav">Projects</div>
-      <div id="social-icons">
-          <div class="social">
-            <a href="mailto:depao168@gmail.com">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-            </a>
-          </div>
-          <div class="social">
-            <a href="https://www.linkedin.com/in/debbie-pao-150b5b123/">
-            <i class="fa fa-linkedin" aria-hidden="true"></i>
-            </a>
-          </div>
-          <div class="social">
-            <a href="https://github.com/debbiep168">
-            <i class="fa fa-github" aria-hidden="true"></i>
-            </a>
-          </div>
-      </div>
-    </div> -->
 
-    <!-- <nav>
+    <nav>
       <div class="nav-wrapper" style="background-color: #fafafa;
       text-transform: uppercase;
       font-family: 'Montserrat', sans-serif;
       letter-spacing: 0.2em;">
-        <a href="index.html" class="header-name" style="color: black">Debbie Pao</a>
-        <div id="social-icons">
-            <div class="social">
-              <a href="mailto:depao168@gmail.com">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
-              </a>
-            </div>
-            <div class="social">
-              <a href="https://www.linkedin.com/in/debbie-pao-150b5b123/">
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
-              </a>
-            </div>
-            <div class="social">
-              <a href="https://github.com/debbiep168">
-              <i class="fa fa-github" aria-hidden="true"></i>
-              </a>
-            </div>
-        </div>
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <a href="index.html" class="center header-name" style="color: black; margin-left: 30px;">Debbie Pao</a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse" style="margin-top: -15px;"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="index.html" style="color: black">About Me</a></li>
+          <li><a href="projects.html" style="color: black">Projects</a></li>
+        </ul>
+        <ul class="side-nav" id="mobile-demo">
           <li><a href="index.html" style="color: black">About Me</a></li>
           <li><a href="projects.html" style="color: black">Projects</a></li>
         </ul>
       </div>
-    </nav> -->
-
-
-  <nav>
-    <div class="nav-wrapper">
-      <a href="#" class="brand-logo">Logo</a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="badges.html">Components</a></li>
-        <li><a href="collapsible.html">JavaScript</a></li>
-      </ul>
-    </div>
-  </nav>
+    </nav>
 
 
       <div class="hello-world">Hello World!</div>
+      <div class="my-name">My name is Debbie Pao</div>
+      <div id="social-icons">
+          <div class="social">
+            <a href="mailto:depao168@gmail.com">
+              <i class="fa fa-envelope icon-size" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div class="social">
+            <a href="https://www.linkedin.com/in/debbie-pao-150b5b123/">
+            <i class="fa fa-linkedin icon-size" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div class="social">
+            <a href="https://github.com/debbiep168">
+            <i class="fa fa-github icon-size" aria-hidden="true"></i>
+            </a>
+          </div>
+      </div>
       <div id="about-me">
     <!-- Console -->
         <div id="terminal">About Me</div>
@@ -99,6 +72,8 @@
         </div>
       </div>
       <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
       <script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+      <script> $(".button-collapse").sideNav(); </script>
   </body>
 </html>

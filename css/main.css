@@ -41,8 +41,13 @@ a {
   display: inline-block;
 }
 
+.icon-size {
+  font-size: 30px;
+}
+
 #social-icons {
-  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
 }
 
 #header {
@@ -63,7 +68,17 @@ a {
 
 .hello-world {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
+  font-size: 36;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.2em;
+  margin-bottom: -80px;
+}
+
+.my-name {
+  text-align: center;
+  margin-top: 140px;
   font-size: 36;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
@@ -77,27 +92,21 @@ a {
   text-align: center;
 }
 
-@media only screen and (min-width: 993px){
-nav a.button-collapse {
-    display: block;
-}
-}
-
 #about-me {
   margin: 0 auto;
-  margin-top: 120px;
+  margin-top: 40px;
 }
 
 #terminal {
   background-color: #cccccc;
-  width: 75%;
+  width: 85%;
   text-align: center;
   margin: 0 auto;
 }
 
 #code {
   margin: 0 auto;
-  width: 75%;
+  width: 85%;
 }
 
 #console {
